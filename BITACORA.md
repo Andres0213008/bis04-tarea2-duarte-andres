@@ -10,4 +10,4 @@
 8. Los `if` de la ventana solo deciden qué mostrar (mensaje de éxito o de error, lista vacía, asociado no encontrado); ninguno valida datos.
 9. Los cuatro mensajes del servicio se ven con `JOptionPane` y en una etiqueta de estado. El registro exitoso limpia los campos, actualiza la lista y avisa.
 10. Eliminé `Prueba` y revisé que no quede ningún `System.out.println`.
-11. Lo que no me funcionó / dudas: (escriba aquí lo que le haya pasado de verdad, o borre esta línea).
+11. Lo que no me funcionó / dudas: ( no me queria dar la opcion de commit ).
